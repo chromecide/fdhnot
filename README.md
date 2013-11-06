@@ -1,4 +1,4 @@
-fdhnot - FluxData Home Network of Things - Part 3 - Creating the project Stucture
+fdhnot - FluxData Home Network of Things - Part 4 - Home Network of Things - Part 4 - Command Line Arguments and Thing Creation
 ======
 
 Includes all code as outlined in:
