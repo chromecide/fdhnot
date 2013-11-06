@@ -20,3 +20,12 @@ for(var itemIdx=2;itemIdx<args.length;itemIdx++){
 }
 
 console.log(thingConfig);
+
+
+//include FluxData
+var FluxData = require('FluxData');
+
+//create a Channel for our Thing
+var thing = new FluxData.Channel(thingConfig);
+
+console.log(thing);
